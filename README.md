@@ -1,16 +1,15 @@
-# flutter_web_view_example
+# Kargo Takip Uygulaması
+**Flutter ile geliştirdiğim kargo takip uygulaması.**
 
-A new Flutter project.
+![ön izle 1](https://play-lh.googleusercontent.com/a8N23Ij3QlaKpDYrlHtj59JfdqbSW0AAHxMcQeDybZUwtuX1MLr6iAWrWKS4ONWXnbM3=w526-h296-rw)
+![ön izle 2](https://play-lh.googleusercontent.com/OFbAAtpFtq1UAlXN1uoCk2XdbLQQYrVP_7HG70qvBUrYPktV1FgawbM2LBkQk-yS0pA=w526-h296-rw)
+![ön izle 3](https://play-lh.googleusercontent.com/jwJ_WQ2LsSKf0srxsZ0_pr7crEVquj1gdCurCwOs85KlPzetckRX2gb6Xi4lcPQKQQ=w526-h296-rw)
+![ön izle 4](https://play-lh.googleusercontent.com/5qO6exhzizLeMp-jihn6jdDEAUrwwMee1wLXfsF8kJaIcRaVCWa2SHVWVoBEDk0XuA=w526-h296-rw)
 
-## Getting Started
+## Installation
+```bash
+git clone https://github.com/doganaliyeniacun/WhereIsTheCargo.git
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+[MIT](https://github.com/doganaliyeniacun/WhereIsTheCargo/blob/master/LICENSE)
